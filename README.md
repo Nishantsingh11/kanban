@@ -1,7 +1,9 @@
+Certainly! Here's an updated README file with a section for including the website link:
 
 ---
 
-# Kanban App 
+# Kanban App README
+
 ## Overview
 
 The Kanban App is a web-based task management application built with [mention technologies here]. It allows users to create, organize, and manage tasks using the Kanban methodology.
@@ -14,9 +16,11 @@ The Kanban App is a web-based task management application built with [mention te
 - Delete tasks.
 - [Add more features here]
 
-## Getting Started
 ## Website Link
- # Live Demo: Kanban App
+
+- **Live Demo**: [Kanban App](https://6506898025bea304979fd7d5--nishantkanban.netlify.app/)
+
+## Getting Started
 
 ### Prerequisites
 
@@ -87,5 +91,3 @@ If you have any questions or feedback, please feel free to contact the project m
 - [Contributor Name](mailto:contributor.email@example.com)
 
 ---
-
-This simplified README format should provide the basic information needed for users and contributors of your Kanban app. You can further customize it to meet your specific requirements.
