@@ -32,13 +32,13 @@ The Kanban App is a web-based task management application built with [mention te
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kanban-app.git
+   git clone https://github.com/Nishantsingh11/kanban.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd kanban-app
+   cd kanban
    ```
 
 3. Install dependencies for both the frontend and backend:
