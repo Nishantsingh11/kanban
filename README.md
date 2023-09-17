@@ -1,8 +1,7 @@
 
 ---
 
-# Kanban App README
-
+# Kanban App 
 ## Overview
 
 The Kanban App is a web-based task management application built with [mention technologies here]. It allows users to create, organize, and manage tasks using the Kanban methodology.
